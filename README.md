@@ -38,6 +38,5 @@ Just another Full-Stack Developer. And aspiring Software Engineers (Msc.)
    <!-- - [![An image of @fallenbagel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fallenbagel)](https://holopin.io/@fallenbagel) -->
 </details>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log%28'Error%3A%20User%20brain%20not%20found!'%29.%20
-)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=%20console.log(%27If%20you%20tell%20the%20truth,%20you%20don%27t%20have%20to%20remember%20anything.%27).%20&author=Mark%20Twain)](https://github.com/piyushsuthar/github-readme-quotes)
 
